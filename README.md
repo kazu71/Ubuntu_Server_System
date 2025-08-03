@@ -1,2 +1,2 @@
 # Ubuntu_Server_System
-Ubuntu Serverni
+Ubuntu Serverに入れると便利なツールレポジトリ
