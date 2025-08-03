@@ -1,4 +1,4 @@
-# Ubuntu_Server_System
+# Ubuntu_Server_System_List
 Ubuntu Serverに入れると便利なツールリスト
 
 ## セキュリティツール
