@@ -8,6 +8,12 @@ sudo apt update
 ```
 sudo apt upgrade
 ```
+#### OS再起動
+```
+sudo reboot
+```
+
+
 
 
 
